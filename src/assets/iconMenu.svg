@@ -1,0 +1,12 @@
+<svg aria-hidden="true" class="valign-middle absoluteCenter" viewBox="0 0 24 24"
+    style="width:24px;height:24px;overflow:visible;fill:currentcolor">
+    <path class="sb-hamburgerButton-middleLine-CLOSED sb-hamburgerButton-animation"
+        d="M21 12.9H3c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h18c.5 0 .9.4.9.9s-.4.9-.9.9z" />
+    <path
+        class="sb-hamburgerButton-topLine-CLOSED sb-hamburgerButton-animation sb-hamburgerButton-animation-outer-lines"
+        d="M21 6.9H3c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h18c.5 0 .9.4.9.9s-.4.9-.9.9z" />
+    <path
+        class="sb-hamburgerButton-bottomLine-CLOSED sb-hamburgerButton-animation sb-hamburgerButton-animation-outer-lines"
+        d="M21 18.9H3c-.5 0-.9-.4-.9-.9s.4-.9.9-.9h18c.5 0 .9.4.9.9s-.4.9-.9.9z" />
+    <circle class="sb-icon-hover" cx="50%" cy="50%" fill="transparent" r="75%" />
+</svg>
