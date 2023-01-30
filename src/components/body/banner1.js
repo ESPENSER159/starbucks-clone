@@ -16,7 +16,7 @@ export default function Banner1() {
     return (
         <div className='max-md:mb-16 mb-32'>
             <div className="flex bgImgHero bg-primarySecond mb-32" style={bkImgHero}>
-                <div style={{paddingBottom: '41.25%'}}></div>
+                <div style={{paddingBottom: '56.25%'}}></div>
                 <div className='flex justify-start items-center'>
                     <div className='px-6 py-8'>
                         <h2 className='font-semibold text-4xl'>FREE COFFEE <br />IS A TAP AWAY</h2>

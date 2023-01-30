@@ -1,7 +1,6 @@
 import Logo from '../../assets/logo.svg'
 import IconLocation from '../../assets/iconLocation.svg'
 import './nav.css'
-import { useState } from 'react';
 
 export default function Nav() {
 
