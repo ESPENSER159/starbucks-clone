@@ -1,0 +1,5 @@
+/* Create an active/current tablink class */
+.tab button.active {
+    font-weight: bold;
+    border-bottom: 8px solid #008248;
+}
