@@ -31,7 +31,7 @@ export default function Nav() {
 
     return (
         <>
-            <div className="flex items-center h-24 px-6">
+            <div className="flex items-center h-24 max-md:h-16 px-6">
                 <div className="flex-none border-1 h-full flex justify-center items-center">
                     <img src={Logo} alt='logo' className='w-12 mr-6' />
                 </div>
@@ -72,7 +72,7 @@ export default function Nav() {
                 </div>
             </div>
             <div id='backgroundMenuPhone' className='fixed h-screen w-screen bg-backgroungOpacity top-20 z-10 md:hidden hidden' />
-            <div id='menuPhone' className='fixed h-screen bg-white top-20 z-10 w-4/5 right-0 md:hidden hidden pt-8'>
+            <div id='menuPhone' className='fixed h-screen bg-white top-21 z-10 w-4/5 right-0 md:hidden hidden pt-8'>
                 <div>
                     <ul>
                         <li>
