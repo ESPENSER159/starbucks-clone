@@ -13,7 +13,7 @@ export default function Banner2() {
                     </div>
                     <div className="pt-12 flex flex-col md:flex-row md:mx-14 text-center">
                         <div className="flex-1 flex flex-col max-md:flex-row max-md:pb-8 max-md:mr-0 mr-6">
-                            <div className='md:mx-auto my-0 md:pb-6 pr-4 shrink-0 shrink-0'>
+                            <div className='md:mx-auto my-0 md:pb-6 pr-4 shrink-0'>
                                 <img className='w-12' src={Number1} alt="number1"></img>
                             </div>
                             <div>
