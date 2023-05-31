@@ -1,5 +1,6 @@
 import Banner1 from "./banner1"
 import Banner2 from "./banner2"
+import Banner3 from "./banner3"
 
 export default function Body() {
     return (
@@ -10,6 +11,7 @@ export default function Body() {
             </div>
             <Banner1 />
             <Banner2 />
+            <Banner3 />
         </div>
     )
 }
