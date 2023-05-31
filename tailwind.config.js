@@ -14,6 +14,8 @@ module.exports = {
       'white': '#fff',
       'hoverButtonDark': '#000000b3',
       'backgroungOpacity': '#0000003b',
+      'backgroundBanner1': '#d4e9e254',
+      'gold': '#cba258',
     },
     extend: {},
   },
