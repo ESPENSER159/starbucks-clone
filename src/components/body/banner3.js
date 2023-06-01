@@ -48,6 +48,8 @@ export default function Banner3() {
                 setTitleProduct('Select Starbucks® merchandise')
                 setTxtProduct('Take home a signature cup, drink tumbler or your choice of coffee merch up to $20.')
                 break;
+            default:
+                break
         }
     }
 
